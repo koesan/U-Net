@@ -22,3 +22,7 @@ https://www.kaggle.com/datasets/santurini/semantic-segmentation-drone-dataset
 
 1. **Veri Setinin İşlenmesi**: `böl.py` betiği kullanılarak veri setindeki görselleri 256 nın katına yeniden boyutlandırılmalı ardından resimleri 256x256 boyutlarında parçalara bölünmeli.
 2. **Google Drive'a Yükleme**: İşlenmiş veri seti, Google Drive'a yüklenerek Colab ortamında kullanılabilir hale getiril.
+
+Sonum:
+
+![indir](https://github.com/user-attachments/assets/19897ea5-1f3d-41e7-85fe-cdb22dea0fd7)
